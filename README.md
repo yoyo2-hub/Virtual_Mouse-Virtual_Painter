@@ -147,42 +147,8 @@ Standalone volume control module using:
 - Test different hand distances for optimal volume control
 - Use a webcam with at least 30 FPS for smooth performance
 
-## Troubleshooting 🔧
-
-**Issue**: Hand not detected
-- **Solution**: Ensure adequate lighting and your hand is visible to the webcam
-
-**Issue**: Jerky cursor movement
-- **Solution**: Increase smoothening value in `AiVirtualMouseProject.py` (higher = smoother but slower response)
-
-**Issue**: Volume control not working
-- **Solution**: Ensure PyAutoGUI has the necessary permissions on your OS
-
-**Issue**: Mode switching not responding
-- **Solution**: Make sure the terminal window is in focus when pressing S/E/Q
-
-## Future Enhancements 🚀
-
-- [ ] Support for both hands simultaneously
-- [ ] Custom gesture recording and mapping
-- [ ] AI-powered gesture recognition for more complex actions
-- [ ] Support for multiple drawing tools and brushes
-- [ ] Save drawings as image files
-- [ ] Configuration GUI for parameter adjustment
-- [ ] Cross-platform gesture support
-
-## License 📄
-
-This project is open source and available for educational purposes.
-
-## Contributing 🤝
-
-Feel free to fork this project, submit issues, and create pull requests with improvements!
-
 ## Author 👨‍💻
 
 **yoyo2-hub** - [GitHub Profile](https://github.com/yoyo2-hub)
-
----
 
 **Enjoy controlling your computer with hand gestures! 🙌**
